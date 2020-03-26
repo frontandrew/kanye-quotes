@@ -10,6 +10,8 @@ Hi! And wellcome.
 
 'KanyeQuotes' is an app for showing quotes from Kanye West's Twitter feed.
 
+---
+
 ### Features:
 
 - Show quotes from Kanye West's Twitter feed;
@@ -23,8 +25,6 @@ Hi! And wellcome.
 - CSS;
 - HTML5;
 - BEM methodology.
-
-### Fast start:
 
 ### Whats new:
 
