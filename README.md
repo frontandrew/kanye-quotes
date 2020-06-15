@@ -8,7 +8,7 @@ Hi! And wellcome.
 
 [![kanye-quotes screenshot](https://avatars.mds.yandex.net/get-pdb/2464019/4db2dbf6-eaf6-44e5-af85-079920069ae6/s1200 "github.io/kanye-quotes")](https://frontandrew.github.io/kanye-quotes/)
 
-'KanyeQuotes' is an app for showing quotes from Kanye West's Twitter feed.
+'KanyeQuotes' is an app for showing quotes from Kanye West's Twitter feed. You can [try it now](https://frontandrew.github.io/kanye-quotes/).
 
 ---
 
